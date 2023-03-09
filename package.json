@@ -1,0 +1,23 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BritanyOlguin/asincronismo-javascript.git"
+  },
+  "keywords": [
+    "britani003"
+  ],
+  "author": "BritanyOlguin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BritanyOlguin/asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/BritanyOlguin/asincronismo-javascript#readme",
+  "type": "module"
+}
